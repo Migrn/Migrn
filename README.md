@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Migrn
 - 👀 I’m interested in Data Engineer
-- 🌱 I’m currently learning Data Engineer NanoDegree
+- 🌱 I’m currently learning Data Engineer NanoDegree (Udicty)
 - 📫 How to reach me migrn999@gmail.com
 
 <!---
